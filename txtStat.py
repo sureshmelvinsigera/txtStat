@@ -156,15 +156,4 @@ Disclaimer: We strive to make our tools as accurate as possible but we cannot gu
     s = r.get_average_number_of_syllable_per_word()
     s = r.get_flesch_kincaid_grade_level()
     s = r.get_flesch_reading_ease_score()
-
     print(s)
-
-    # r.rs_syllable_count()
-    # r.rs_sentence_count()
-    # s = r.rs_flesch_reading_ease_score()
-    # print(s)
-    # print(r.rs_flesch_kincaid_grade_level())
-    # print("=============")
-    # print()
-    # #read.rs_char_count()
-    # #ReadabilityScore.rs_char_count(custom_text)
