@@ -14,6 +14,6 @@ if __name__ == '__main__':
     focus of the story and is usually revealed chronologically, but there are sometimes flash forwards and flash backs.
     """
     content = txtStat(custom_text)
-    c = content.get_average_sentence_length();
+    c = content.get_average_sentence_length()
     print(c)
 ```
