@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/sureshmelvinsigera/txtStat.svg?branch=master)](https://travis-ci.org/sureshmelvinsigera/txtStat)
+
 # txtStat
 
 The txtStat tool calculates the readability indicators such as Flesch Kincaid Reading Ease, Flesch Kincaid Grade Level.
