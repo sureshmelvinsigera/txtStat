@@ -86,7 +86,7 @@ class txtStat():
 	def get_flesch_reading_ease_score(self):
 		"""
 		fres = (0.39 x ASL) + (11.8 x ASW) - 15.59
-		Where,FKRA = Flesch-Kincaid Reading Age
+		Where,FKRA = Flesch - Kincaid Reading Age
 		ASL = Average Sentence Length (i.e., the number of words divided by the number of sentences)
 		ASW = Average number of Syllable per Word (i.e., the number of syllables divided by the number of words)
 		"""
