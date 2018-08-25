@@ -9,3 +9,5 @@ python:
 cache: pip
 install: "pip install -r requirements.txt"
 script: "python sample.py"
+branches:
+  only: - master
